@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sayantana
+- 👀 I’m interested in Data science, Machine learning,
+- 🌱 I’m currently learning Python for data science
+- 📫 Reach me via sayantana.joarder@gmail.com
